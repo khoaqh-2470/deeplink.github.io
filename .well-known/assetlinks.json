@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.co.mrmax.app.dev",
+    "sha256_cert_fingerprints":
+    ["75:4C:43:EE:5C:76:7C:FE:DB:9A:E4:66:4D:F4:E7:62:05:B2:FB:B1:64:E2:58:2D:BE:3B:DC:52:27:12:8E:AD"]
+  }
+}]
